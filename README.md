@@ -1,4 +1,4 @@
-<h1 align="center">🚀 DevLinks 🚀</h1>
+<h1 align="center"> DevLinks 🚀</h1>
 
 <p align="center">
   Este projeto é um agregador de links, desenvolvido para centralizar e organizar conteúdos importantes em uma única página, facilitando o acesso e compartilhamento de links relevantes de forma prática e eficiente 💜
