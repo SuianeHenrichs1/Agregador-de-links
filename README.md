@@ -7,16 +7,16 @@
 <p align="center">
   <a href="#-tecnologias">🛠 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">🎨 Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">📄 Licença</a>
+  <a href="#-layout">🎨 Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
 </p>
 
 <p align="center">
-  <img alt="Imagem do projeto" src="https://i.imgur.com/Agj3Tda.jpg" width="500px">
+  <img alt="Imagem do projeto" src="https://i.imgur.com/Agj3Tda.jpg" width="800px">
 </p>
 
 <p align="center">
-  <i>Com o DevLinks, você tem todos os links importantes em um só lugar, acessíveis de maneira prática e elegante! 😎✨</i>
+  <i>Com o DevLinks, você tem todos os links importantes em um só lugar, acessíveis de maneira prática e elegante! 💛✨</i>
 </p>
 
 ---
